@@ -1,0 +1,14 @@
+﻿@if(!Display)
+{
+    <div class="case" @onmousedown="OnMouseDown">
+    </div>
+}
+else
+{
+    <div class="casedisplayed" @onmousedown="OnMouseDown">
+        <p class="@Style">
+            @Content
+        </p>
+    </div>
+}
+    

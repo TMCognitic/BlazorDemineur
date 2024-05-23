@@ -1,0 +1,58 @@
+﻿.case {
+    background-color: black;
+    border: solid 1px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+}
+
+.casedisplayed {
+    background-color: darkgrey;
+    border: solid 1px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align:center;
+    font-weight: bold;
+    font-size:2em;
+}
+
+    .p0 {
+        
+    }
+
+    .p1 {
+        color: #00FF00;
+    }
+
+    .p2 {
+        color: #7FFF00;
+    }
+
+    .p3 {
+        color: #FFFF00;
+    }
+
+    .p4 {
+        color: #FFBF00;
+    }
+
+    .p5 {
+        color: #FF7F00;
+    }
+
+    .p6 {
+        color: #FF3F00;
+    }
+
+    .p7 {
+        color: #FF0000;
+    }
+
+    .p8 {
+        color: #FF0000;
+    }
+
+    .p9 {
+        color: black;
+    }
